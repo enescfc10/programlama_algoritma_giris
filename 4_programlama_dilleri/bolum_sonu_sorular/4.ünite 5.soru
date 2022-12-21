@@ -1,0 +1,3 @@
+4, 5. Soru
+Eğer tüm veri tipleri bir veri tipi altında birleşseydi bu RAM deki kapladığı alan daha büyük olurdu ve programın yavaş çalışmasına neden olurdu. Bu yüzden birden çok veri tipi yapılmıştır.  Çünkü ;yapacağın program büyükse yukarda dediğim gibi veri tipleri sadece kendi tipi kadar RAM de yer kaplar ve RAM de ne kadar az yer kaplarsa programın o kadar hızlı ve seri çalışır. Eğer veri tipi tek olsaydı tüm veri tipleri kadar yeri RAM de kaplardı ve RAM de ne çok yer kaplarsa programın da yavaş olur ve seri performans gösteremez.
+
